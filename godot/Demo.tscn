@@ -13,10 +13,12 @@ script = ExtResource( 2 )
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
 [node name="DebugPanel" type="Panel" parent="CanvasLayer"]
-margin_right = 40.0
-margin_bottom = 40.0
+margin_left = 392.0
+margin_top = 227.0
+margin_right = 605.0
+margin_bottom = 390.0
 script = ExtResource( 3 )
 
 [node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/DebugPanel"]
-margin_right = 40.0
-margin_bottom = 40.0
+margin_right = 213.0
+margin_bottom = 163.0
